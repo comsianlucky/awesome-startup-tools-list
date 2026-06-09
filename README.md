@@ -398,6 +398,7 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
+- IconKing (Lottie Animation Viewer & Editor) – https://iconking.net
 
 ## Security and Privacy
 
