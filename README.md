@@ -18,7 +18,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Claude - https://claude.ai
 - ChatGPT - https://chatgpt.com
 - Google Gemini - https://gemini.google.com
-- Grok - https://grok.com
+- Grok - https://grok.c
 - Microsoft CoPilot - https://copilot.microsoft.com
 - Kimi - https://www.kimi.com
 - Qwen - https://qwen.ai
@@ -369,6 +369,7 @@ Good for team projects
 - Excalidraw - https://excalidraw.com
 - Icons8 - https://icons8.com
 - Favicon Generator - https://favicon.io
+- IconKing - https://iconking.net
 
 ### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
@@ -398,8 +399,6 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
-- IconKing (Lottie Animation Viewer & Editor) – https://iconking.net
-
 ## Security and Privacy
 
 ### Password Managers
